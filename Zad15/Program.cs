@@ -4,7 +4,7 @@ WriteLine("Введите число месяца - ");
 int number = Convert.ToInt32(ReadLine());
 if (number <= 31)
 {
-    if (number == 6 || number == 7 || number == 13 || number == 14 || number == 20 || number == 21 || number == 27 || number == 28)
+    if (number % 7 == 0 || number % 7 == 6)
     {
         WriteLine("Выходной");
     }
