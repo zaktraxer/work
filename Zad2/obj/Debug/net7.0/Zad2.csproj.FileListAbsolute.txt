@@ -1,0 +1,15 @@
+/Users/mac/Desktop/C#/Homework/Zad2/obj/Debug/net7.0/Zad2.csproj.AssemblyReference.cache
+/Users/mac/Desktop/C#/Homework/Zad2/obj/Debug/net7.0/Zad2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/C#/Homework/Zad2/obj/Debug/net7.0/Zad2.AssemblyInfoInputs.cache
+/Users/mac/Desktop/C#/Homework/Zad2/obj/Debug/net7.0/Zad2.AssemblyInfo.cs
+/Users/mac/Desktop/C#/Homework/Zad2/obj/Debug/net7.0/Zad2.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/C#/Homework/Zad2/bin/Debug/net7.0/Zad2
+/Users/mac/Desktop/C#/Homework/Zad2/bin/Debug/net7.0/Zad2.deps.json
+/Users/mac/Desktop/C#/Homework/Zad2/bin/Debug/net7.0/Zad2.runtimeconfig.json
+/Users/mac/Desktop/C#/Homework/Zad2/bin/Debug/net7.0/Zad2.dll
+/Users/mac/Desktop/C#/Homework/Zad2/bin/Debug/net7.0/Zad2.pdb
+/Users/mac/Desktop/C#/Homework/Zad2/obj/Debug/net7.0/Zad2.dll
+/Users/mac/Desktop/C#/Homework/Zad2/obj/Debug/net7.0/refint/Zad2.dll
+/Users/mac/Desktop/C#/Homework/Zad2/obj/Debug/net7.0/Zad2.pdb
+/Users/mac/Desktop/C#/Homework/Zad2/obj/Debug/net7.0/Zad2.genruntimeconfig.cache
+/Users/mac/Desktop/C#/Homework/Zad2/obj/Debug/net7.0/ref/Zad2.dll
