@@ -4,8 +4,8 @@ WriteLine("Введите число - ");
 int number = Convert.ToInt32(ReadLine());
 if ((number / 100) > 0)
 {
-    number = (number % 1000) / 100;
-    WriteLine(number);
+    //number = (number % 1000) / 100;
+    WriteLine((number % 1000) / 100);
 }
 else
 {
