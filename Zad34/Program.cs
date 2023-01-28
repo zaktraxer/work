@@ -7,6 +7,7 @@ int [] array = GetArray(count);
 Printarray(array);
 int sum = Checkeven(array);
 WriteLine($"В данном массиве {sum} четных элементов");
+
 int[] GetArray(int num)
 {
     int[] res = new int[num];
