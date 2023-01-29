@@ -1,0 +1,15 @@
+/Users/mac/Desktop/C#/nes/Work/Zad43/obj/Debug/net7.0/Zad43.csproj.AssemblyReference.cache
+/Users/mac/Desktop/C#/nes/Work/Zad43/obj/Debug/net7.0/Zad43.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/C#/nes/Work/Zad43/obj/Debug/net7.0/Zad43.AssemblyInfoInputs.cache
+/Users/mac/Desktop/C#/nes/Work/Zad43/obj/Debug/net7.0/Zad43.AssemblyInfo.cs
+/Users/mac/Desktop/C#/nes/Work/Zad43/obj/Debug/net7.0/Zad43.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/C#/nes/Work/Zad43/bin/Debug/net7.0/Zad43
+/Users/mac/Desktop/C#/nes/Work/Zad43/bin/Debug/net7.0/Zad43.deps.json
+/Users/mac/Desktop/C#/nes/Work/Zad43/bin/Debug/net7.0/Zad43.runtimeconfig.json
+/Users/mac/Desktop/C#/nes/Work/Zad43/bin/Debug/net7.0/Zad43.dll
+/Users/mac/Desktop/C#/nes/Work/Zad43/bin/Debug/net7.0/Zad43.pdb
+/Users/mac/Desktop/C#/nes/Work/Zad43/obj/Debug/net7.0/Zad43.dll
+/Users/mac/Desktop/C#/nes/Work/Zad43/obj/Debug/net7.0/refint/Zad43.dll
+/Users/mac/Desktop/C#/nes/Work/Zad43/obj/Debug/net7.0/Zad43.pdb
+/Users/mac/Desktop/C#/nes/Work/Zad43/obj/Debug/net7.0/Zad43.genruntimeconfig.cache
+/Users/mac/Desktop/C#/nes/Work/Zad43/obj/Debug/net7.0/ref/Zad43.dll
