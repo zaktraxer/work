@@ -23,3 +23,15 @@ void Printarray(double[] array)
     }
     WriteLine("");
 }
+
+// int AskUserForNumber(string inPrompt)
+// {
+//     int resultNum = 0;
+//     string UserInput = "";
+//     while (!int.TryParse(UserInput, out resultNum))
+//     {
+//         Console.Write(inPrompt);
+//         UserInput = Console.ReadLine()!;
+//     }
+//     return resultNum;
+//  }
