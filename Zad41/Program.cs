@@ -5,6 +5,7 @@ int[] array = GetArray();
 Printarray(array);
 int count = Checkpositive(array);
 WriteLine($"Количество четных элементов {count}");
+
 int[] GetArray()
 {
     Write("Введите члены массива через пробел ");
