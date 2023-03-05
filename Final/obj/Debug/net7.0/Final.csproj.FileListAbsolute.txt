@@ -1,0 +1,15 @@
+/Users/mac/Desktop/C#/nes/Work/Final/bin/Debug/net7.0/Final
+/Users/mac/Desktop/C#/nes/Work/Final/bin/Debug/net7.0/Final.deps.json
+/Users/mac/Desktop/C#/nes/Work/Final/bin/Debug/net7.0/Final.runtimeconfig.json
+/Users/mac/Desktop/C#/nes/Work/Final/bin/Debug/net7.0/Final.dll
+/Users/mac/Desktop/C#/nes/Work/Final/bin/Debug/net7.0/Final.pdb
+/Users/mac/Desktop/C#/nes/Work/Final/obj/Debug/net7.0/Final.csproj.AssemblyReference.cache
+/Users/mac/Desktop/C#/nes/Work/Final/obj/Debug/net7.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/C#/nes/Work/Final/obj/Debug/net7.0/Final.AssemblyInfoInputs.cache
+/Users/mac/Desktop/C#/nes/Work/Final/obj/Debug/net7.0/Final.AssemblyInfo.cs
+/Users/mac/Desktop/C#/nes/Work/Final/obj/Debug/net7.0/Final.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/C#/nes/Work/Final/obj/Debug/net7.0/Final.dll
+/Users/mac/Desktop/C#/nes/Work/Final/obj/Debug/net7.0/refint/Final.dll
+/Users/mac/Desktop/C#/nes/Work/Final/obj/Debug/net7.0/Final.pdb
+/Users/mac/Desktop/C#/nes/Work/Final/obj/Debug/net7.0/Final.genruntimeconfig.cache
+/Users/mac/Desktop/C#/nes/Work/Final/obj/Debug/net7.0/ref/Final.dll
